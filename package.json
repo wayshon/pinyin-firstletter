@@ -1,0 +1,22 @@
+{
+  "name": "pinyin-firstletter",
+  "version": "1.0.1",
+  "description": "获取汉字首字母",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayshon/pinyin-firstletter.git"
+  },
+  "keywords": [
+    "汉字首字母"
+  ],
+  "author": "wayshon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayshon/pinyin-firstletter/issues"
+  },
+  "homepage": "https://github.com/wayshon/pinyin-firstletter#readme"
+}
